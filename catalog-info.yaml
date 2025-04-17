@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-backstage-developer
+  annotations:
+    github.com/project-slug: Lz-01/create-issues-backstage
+spec:
+  type: service
+  lifecycle: unknown
+  owner: bu2
